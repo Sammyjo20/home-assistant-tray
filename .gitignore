@@ -1,0 +1,17 @@
+# Operating system files and directories
+.DS_Store
+._.DS_Store
+
+# Editors and IDEs
+/.fleet
+/.idea
+/.vscode
+
+# Project dependencies
+/node_modules
+
+# Build Files
+/out
+
+# Environment Files
+.env
