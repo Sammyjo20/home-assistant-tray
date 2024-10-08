@@ -13,3 +13,6 @@ This is a really basic example to use Electron https://www.electronjs.org/ to cr
 4. Open the `.env` file and populate `HOME_ASSISTANT_BASE_URL` and `HOME_ASSISTANT_TOKEN` with a long-lived token (created in the security section of your user account)
 5. Run `npm run start` to start the tray application in development mode
 6. Run `npm run make` to build the tray application to a final executable which you can run on startup.
+
+### Useful resources
+- https://www.electronjs.org/docs/latest/api/tray
