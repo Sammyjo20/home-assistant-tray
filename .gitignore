@@ -9,6 +9,7 @@
 
 # Project dependencies
 /node_modules
+package-lock.json
 
 # Build Files
 /out

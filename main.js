@@ -1,4 +1,4 @@
-const { app, Tray, Menu, nativeImage, Notification, shell } = require('electron')
+const { app, Tray, Menu, nativeImage } = require('electron')
 const path = require('node:path')
 const axios = require('axios')
 
